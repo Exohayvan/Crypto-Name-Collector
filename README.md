@@ -1,5 +1,4 @@
 # Cryptocurrency Name Collector
-A simple Python script for collection lots of cryptocurrencies names.
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
